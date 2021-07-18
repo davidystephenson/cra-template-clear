@@ -1,0 +1,24 @@
+{
+  "name": "cra-template-clear",
+  "version": "1.0.0",
+  "description": "Just enough React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidystephenson/cra-template-clear.git"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "clear"
+  ],
+  "author": "David Y. Stephenson",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/davidystephenson/cra-template-clear/issues"
+  },
+  "homepage": "https://github.com/davidystephenson/cra-template-clear#readme"
+}
