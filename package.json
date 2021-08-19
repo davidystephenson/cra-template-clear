@@ -1,6 +1,6 @@
 {
   "name": "cra-template-clear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just enough React.",
   "main": "index.js",
   "scripts": {
